@@ -1,6 +1,6 @@
 # dev_notes
 
-#### record dev notes（记录开发日常）
+#### record dev notes（记录开发日常，其实就是各种坑，o(╯□╰)o）
 
 在多人项目开发时，避免各种冲突，各种抓狂，这不就来了，
 
