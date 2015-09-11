@@ -1,15 +1,7 @@
 # dev_notes
 
-#### record dev notes（记录开发日常，其实就是各种坑，o(╯□╰)o）
+#### record dev notes（记录开发日常，其实就是各种坑，各种填）
 
-在多人项目开发时，避免各种冲突，各种抓狂，这不就来了，
+欢迎各路英雄豪杰，issues，各种开发tips，尤其是*iOS*，为了更好的学习交流，值。
 
-**SVN** commit后就这样
-
-*Aborting commit … remains in confli svn* 
-
-``` 
-svn resolved <filename or directory that gives trouble>
-```
-
-详情请戳：http://stackoverflow.com/questions/2406469/svn-remains-in-conflict
+issues戳：<a href="https://github.com/sauchye/dev_notes/issues">issues</a>
